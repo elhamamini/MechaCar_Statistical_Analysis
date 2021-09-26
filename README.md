@@ -35,23 +35,23 @@ We will perform t-tests to determine if all manufacturing lots and each lot indi
 ### A. To Determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.
 The p value is 1 which is greater than 0.05 and is therfore not significant and the null hypothesis can be accepted
 
-![](https://github.com/Akshaya-Kamble/MechaCar_Statistical_Analysis/blob/main/Reference%20Images/t_test.PNG)
+![](t_test.PNG)
 
 ### B. To Determine if the PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.
 #### 1. Lot 1
 The p value is 1.568e-11 which is greater than 0.05 and is therfore not significant and the null hypothesis can be accepted.
 
-![](https://github.com/Akshaya-Kamble/MechaCar_Statistical_Analysis/blob/main/Reference%20Images/t_test_lot1.PNG)
+![](t_test_lot1.PNG)
 
 #### 2. Lot 2
 The p value is 0.0005911 which is less than 0.05 and is therfore significant so the null hypothesis can be rejected.
 
-![](https://github.com/Akshaya-Kamble/MechaCar_Statistical_Analysis/blob/main/Reference%20Images/t_test_lot2.PNG)
+![](t_test_lot2.PNG)
 
 #### 3. Lot 3
 The p value is 0.1589 which is greater than 0.05 and is therfore not significant so the null hypothesis can be accepted
 
-![](https://github.com/Akshaya-Kamble/MechaCar_Statistical_Analysis/blob/main/Reference%20Images/t_test_lot3.PNG)
+![](t_test_lot3.PNG)
 
 Looking at the p value for all the manufacturing lots together is greater than 0.05 and is not significant so the null hypothesis can be accepted.Similarly the null hypothesis for lot1 and lot 3 can also be accepted as the p values are also greater that 0.05. The null hypothesis for lot2 can be rejected as the p value is less than 0.05 
 
