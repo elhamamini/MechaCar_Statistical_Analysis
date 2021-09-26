@@ -55,7 +55,7 @@ The p value is 0.1589 which is greater than 0.05 and is therfore not significant
 
 Looking at the p value for all the manufacturing lots together is greater than 0.05 and is not significant so the null hypothesis can be accepted.Similarly the null hypothesis for lot1 and lot 3 can also be accepted as the p values are also greater that 0.05. The null hypothesis for lot2 can be rejected as the p value is less than 0.05 
 
-## Deliverable 4
+
 ## Study Design: MechaCar vs Competition
 
 The various comparable factors that MechaCar can perform against the competition would be cost,highway fuel efficiency, horse power, maintenance cost,seating capacity,PSI, mpg,ground clearence,fuel type,safety rating etc.
