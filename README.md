@@ -36,7 +36,7 @@ The various comparable factors that MechaCar can perform against the competition
 
 
 
-**Summery**
+## Summary 
 ### Summary Statistics on
 
 When looking at the entire population of the production lot, the variance of the coils is 62.29 PSI, which is well within the 100 PSI variance requirement.
